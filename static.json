@@ -1,4 +1,8 @@
 {
   "root": "public/",
-  "https_only": true
+  "headers": {
+    "/**.js": {
+      "Cache-Control": "public, max-age=0, must-revalidate"
+    }
+  }
 }
