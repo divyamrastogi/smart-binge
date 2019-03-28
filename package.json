@@ -57,6 +57,7 @@
     "gatsby"
   ],
   "scripts": {
+    "preinstall": "yarn install",
     "start": "yarn start",
     "build": "gatsby build",
     "develop": "gatsby develop",
