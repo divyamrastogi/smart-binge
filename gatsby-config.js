@@ -29,6 +29,7 @@ const queries = [
     }
   }
 ];
+console.log("Env: ", process.env.ALGOLIA_INDEX_NAME);
 
 module.exports = {
   // pathPrefix: config.pathPrefix,
