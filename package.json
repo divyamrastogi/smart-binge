@@ -57,7 +57,6 @@
     "gatsby"
   ],
   "scripts": {
-    "start": "yarn start",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "heroku-postbuild": "gatsby build",
