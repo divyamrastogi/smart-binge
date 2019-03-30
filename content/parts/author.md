@@ -2,4 +2,9 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Dt. Anupreksha Rastogi**, Dietician
+M.Sc. (BHU) - Food & Nutrition, CFN, DNHE, UGC-NET
+
+---
+
+Anupreksha Rastogi has been in the healthcare industry for more than 5 years.
