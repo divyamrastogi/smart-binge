@@ -1,4 +1,6 @@
-# HeroBlog
+# Smart Binge - using HeroBlog
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea110eb2-f375-4d3d-8874-4832899725dd/deploy-status)](https://app.netlify.com/sites/focused-stallman-303805/deploys)
 
 A [GatsbyJS](https://www.gatsbyjs.org/) blog starter. <br /><br />
 
