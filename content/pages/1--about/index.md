@@ -7,6 +7,14 @@ Due to my regular interest in food, I prefered to pursue my studies in the subje
 Being a qualified dietician and a life member of Indian Dietetics Association, I believe in implementing safe, healthy eating habits not just thr numbers in weighing scale.
 All this is taught throughout the journey of our programs.
 
+### Expertise in:
+
+- Therapeutics Diets
+- Weight Management
+- Diabetes Care
+- Sports Nutrition for athletes
+- Corporate Food Service Management.
+
 #### Qualifications:
 
 M.Sc. (Food & Nutrition)

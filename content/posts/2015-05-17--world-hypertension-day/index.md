@@ -1,6 +1,6 @@
 ---
 title: World Hypertension Day
-category: "tips"
+category: "Tips"
 cover: FB_IMG_1553833428634.jpg
 author: Anupreksha Rastogi
 ---

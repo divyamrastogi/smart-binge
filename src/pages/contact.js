@@ -22,7 +22,7 @@ const ContactPage = props => {
         {theme => (
           <Article theme={theme}>
             <header>
-              <Headline title="Query" theme={theme} />
+              <Headline title="For Appointment" theme={theme} />
             </header>
             <Contact theme={theme} />
           </Article>

@@ -1,6 +1,6 @@
 ---
 title: Salads are not always healthy
-category: "myths"
+category: "Myths"
 cover: nielsen-ramon-510278-unsplash.jpg
 author: anupreksha rastogi
 ---

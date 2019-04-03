@@ -1,9 +1,11 @@
 ---
-title: Bajra
-category: "tips"
-cover: photo-1469461084727-4bfb496cf55a.jpg
+title: Bajra Roti and Sarson ka saag
+category: "Tips"
+cover: FB_IMG_1554040590718.jpg
 author: anupreksha rastogi
 ---
+
+![unsplash.com](./FB_IMG_1554040590718.jpg)
 
 ### Bajra
 

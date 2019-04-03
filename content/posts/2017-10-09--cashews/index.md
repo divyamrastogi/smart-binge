@@ -1,11 +1,11 @@
 ---
 title: Cashew
-category: "myths"
+category: "Myths"
 cover: jenn-kosar-437311-unsplash.jpg
 author: anupreksha rastogi
 ---
 
-Since our childhood, we have been fond of this Cashew Nut. While it leaves us with a sweet taste, there are many myths around Kaju or Cashew being bad for your health.
+Since our childhood, we have been fond of this Cashew Nut. While it leaves us with a sweet taste, there are many Myths around Kaju or Cashew being bad for your health.
 
 LETS BREAK THEM TODAY....
 

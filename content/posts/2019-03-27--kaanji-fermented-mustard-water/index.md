@@ -1,6 +1,6 @@
 ---
 title: Kaanji (Fermented Mustard Water)
-category: "recipes"
+category: "Recipes"
 cover: photo-1465070845512-2b2dbdc6df66.jpeg
 author: anupreksha rastogi
 ---

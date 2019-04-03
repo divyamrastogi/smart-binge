@@ -1,6 +1,6 @@
 ---
 title: Watermelon - a super food
-category: "tips"
+category: "Tips"
 cover: FB_IMG_1553834541088.jpg
 author: anupreksha rastogi
 ---
