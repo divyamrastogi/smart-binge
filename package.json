@@ -4,7 +4,7 @@
   "author": "Greg Lobinski <greglobinski@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "antd": "^3.7.0",
+    "antd": "^3.16.1",
     "express": "^4.16.4",
     "express-favicon": "^2.0.1",
     "fontfaceobserver": "^2.0.13",

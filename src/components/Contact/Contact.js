@@ -4,14 +4,19 @@ import { navigate } from "gatsby";
 import Button from "antd/lib/button";
 import Form from "antd/lib/form";
 import Input from "antd/lib/input";
+import Select from "antd/lib/select";
+import InputNumber from "antd/lib/input-number";
 import PropTypes from "prop-types";
 import React from "react";
 
 const FormItem = Form.Item;
 const { TextArea } = Input;
+const { Option } = Select;
 import "antd/lib/form/style/index.css";
 import "antd/lib/input/style/index.css";
 import "antd/lib/button/style/index.css";
+import "antd/lib/select/style/index.css";
+import "antd/lib/input-number/style/index.css";
 import { ThemeContext } from "../../layouts";
 
 const Contact = props => {
@@ -64,7 +69,7 @@ const Contact = props => {
               data-netlify="true"
               data-netlify-honeypot="bot-field"
             >
-              <FormItem label="Name">
+              <FormItem label="Full Name">
                 {getFieldDecorator("name", {
                   rules: [
                     {
@@ -72,6 +77,51 @@ const Contact = props => {
                     }
                   ]
                 })(<Input name="name" />)}
+              </FormItem>
+              <FormItem label="Age">
+                {getFieldDecorator("age", {
+                  rules: [
+                    {
+                      required: true,
+                      message: "Please input your age!",
+                      type: "number"
+                    }
+                  ]
+                })(
+                  <InputNumber
+                    style={{ color: "inherit" }}
+                    size="large"
+                    min={1}
+                    max={100}
+                    name="age"
+                  />
+                )}
+              </FormItem>
+              <FormItem label="Sex">
+                {getFieldDecorator("sex", {
+                  rules: [
+                    {
+                      required: true
+                    }
+                  ]
+                })(
+                  <Select style={{ width: "50%" }} size="large" name="sex">
+                    <Option value="Male">Male</Option>
+                    <Option value="Female">Female</Option>
+                    {/* <Option value="Others">Others</Option> */}
+                  </Select>
+                )}
+              </FormItem>
+              <FormItem label="Mobile">
+                {getFieldDecorator("mobile", {
+                  rules: [
+                    {
+                      required: true,
+                      message: "Please input your mobile!",
+                      pattern: "^[6789]\\d{9}$"
+                    }
+                  ]
+                })(<Input name="mobile" />)}
               </FormItem>
               <FormItem label="E-mail">
                 {getFieldDecorator("email", {
@@ -87,9 +137,7 @@ const Contact = props => {
               </FormItem>
               <FormItem label="Message">
                 {getFieldDecorator("message", {
-                  rules: [
-                    { required: true, message: "Please input your message!", whitespace: true }
-                  ]
+                  rules: [{ message: "Please input your message!", whitespace: true }]
                 })(
                   <TextArea name="message" placeholder="" autosize={{ minRows: 4, maxRows: 10 }} />
                 )}

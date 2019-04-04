@@ -25,6 +25,8 @@ const ContactPage = props => {
               <Headline title="For Appointment" theme={theme} />
             </header>
             <Contact theme={theme} />
+            <h3>Online Diet Consultation available throughout the World</h3>
+            <h3>Get the personalized diet plan</h3>
           </Article>
         )}
       </ThemeContext.Consumer>
