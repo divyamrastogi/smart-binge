@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Smart Binge - Eat your way to a healthy lifestyle", // <title>
   shortSiteTitle: "SmartBinge - Eat Smart", // <title> ending for posts and pages
   siteDescription: "Dietician Anupreksha Rastogi shares her advice on SmartBinge - her blog.",
-  siteUrl: "https://smartbinge.co.in",
+  siteUrl: "https://smartbinge.co.in/",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
