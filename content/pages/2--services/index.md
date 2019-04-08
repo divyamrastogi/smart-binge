@@ -3,8 +3,6 @@ title: Services
 menuTitle: Services
 ---
 
-**Dt. Anupreksha Rastogi** will help you get a healthy lifestyle by enabling you to manage your diet.
-
 ### Expertise in:
 
 - Weight Management
