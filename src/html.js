@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import GoogleAds from "./components/GoogleAds";
 
 export default class HTML extends React.Component {
   render() {
@@ -11,7 +10,17 @@ export default class HTML extends React.Component {
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
           {this.props.headComponents}
-          <GoogleAds />
+          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                (adsbygoogle = window.adsbygoogle || []).push({
+                  google_ad_client: "ca-pub-4546010269809354",
+                  enable_page_level_ads: true
+                });
+              `
+            }}
+          />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="#D0E0D8" />
           <meta name="apple-mobile-web-app-title" content="Lazywill" />
