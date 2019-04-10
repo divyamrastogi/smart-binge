@@ -8,6 +8,10 @@ export default class HTML extends React.Component {
         <head>
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+          <meta
+            name="google-site-verification"
+            content="dUgFX9-OaLNN-LyCMqxDNr5ylbFaKjLzRWlPVEO5fLI"
+          />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
           {this.props.headComponents}
           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" />
