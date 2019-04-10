@@ -1,7 +1,8 @@
 module.exports = {
   siteTitle: "Smart Binge - Eat your way to a healthy lifestyle", // <title>
   shortSiteTitle: "SmartBinge - Eat Smart", // <title> ending for posts and pages
-  siteDescription: "Dietician Anupreksha Rastogi shares her advice on SmartBinge - her blog.",
+  siteDescription:
+    "Vegan Diets, Weight Loss, Sports Nutrition, Meal Planning, Weight Gain, Diabetes Control Diets, Online Consultation, PCOS Control Diets, Vegetarian Diets, Allergy Consultation",
   siteUrl: "https://smartbinge.co.in/",
   // pathPrefix: "",
   siteImage: "preview.jpg",
