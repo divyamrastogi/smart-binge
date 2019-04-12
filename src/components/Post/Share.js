@@ -21,7 +21,7 @@ const PostShare = props => {
     post: {
       fields: { slug },
       frontmatter: { title },
-      excerpt
+      excerpt = "Eating healthy"
     },
     theme
   } = props;
