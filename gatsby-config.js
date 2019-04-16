@@ -29,7 +29,7 @@ const queries = [
     }
   }
 ];
-console.log("Env: ", process.env.ALGOLIA_INDEX_NAME);
+console.log("Env: ", process.env.SEARCH_INDEX_NAME);
 
 module.exports = {
   // pathPrefix: config.pathPrefix,
@@ -42,7 +42,7 @@ module.exports = {
       searchOnlyApiKey: process.env.ALGOLIA_SEARCH_ONLY_API_KEY
         ? process.env.ALGOLIA_SEARCH_ONLY_API_KEY
         : "",
-      indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : ""
+      indexName: process.env.SEARCH_INDEX_NAME ? process.env.SEARCH_INDEX_NAME : ""
     },
     facebook: {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
@@ -61,8 +61,8 @@ module.exports = {
       resolve: `gatsby-plugin-algolia`,
       options: {
         appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
-        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
+        apiKey: process.env.SEARCH_ADMIN_API_KEY ? process.env.SEARCH_ADMIN_API_KEY : "",
+        indexName: process.env.SEARCH_INDEX_NAME ? process.env.SEARCH_INDEX_NAME : "",
         queries,
         chunkSize: 10000 // default: 1000
       }
