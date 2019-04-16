@@ -1,5 +1,6 @@
 ---
 title: About - Meet our expert
+menuTitle: About
 ---
 
 My name is **_Dt. Anupreksha Rastogi_**. I am professionally a dietician with over 7 years of experience in Therapeutic Diets and weight management.
