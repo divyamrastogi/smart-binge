@@ -32,7 +32,7 @@ const queries = [
 console.log("Env: ", process.env.SEARCH_INDEX_NAME);
 
 module.exports = {
-  // pathPrefix: config.pathPrefix,
+  pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,

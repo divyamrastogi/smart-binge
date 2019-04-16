@@ -3,6 +3,7 @@ title: Kaanji (Fermented Mustard Water)
 category: "Recipes"
 cover: photo-1465070845512-2b2dbdc6df66.jpeg
 author: anupreksha rastogi
+description: Benefits of Kaanji (Fermented Mustard water)
 ---
 
 ## Kaanji - Fermented Mustard Water

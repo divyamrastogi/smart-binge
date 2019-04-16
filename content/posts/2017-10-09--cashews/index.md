@@ -3,7 +3,10 @@ title: Cashew
 category: "Myths"
 cover: jenn-kosar-437311-unsplash.jpg
 author: anupreksha rastogi
+description: Are cashews good for you?
 ---
+
+## Are cashews good for you?
 
 Since our childhood, we have been fond of this Cashew Nut. While it leaves us with a sweet taste, there are many Myths around Kaju or Cashew being bad for your health.
 

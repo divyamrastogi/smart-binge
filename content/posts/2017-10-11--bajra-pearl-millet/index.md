@@ -3,6 +3,7 @@ title: Bajra Roti and Sarson ka saag
 category: "Tips"
 cover: FB_IMG_1554040590718.jpg
 author: anupreksha rastogi
+description: Bajra, diabetes, digestion, detox
 ---
 
 ![unsplash.com](./FB_IMG_1554040590718.jpg)

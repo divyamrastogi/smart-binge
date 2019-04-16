@@ -3,11 +3,11 @@ module.exports = {
   shortSiteTitle: "SmartBinge - Eat Smart", // <title> ending for posts and pages
   siteDescription:
     "Vegan Diets, Weight Loss, Sports Nutrition, Meal Planning, Weight Gain, Diabetes Control Diets, Online Consultation, PCOS Control Diets, Vegetarian Diets, Allergy Consultation",
-  siteUrl: "https://smartbinge.co.in/",
-  // pathPrefix: "",
+  siteUrl: "https://smartbinge.co.in",
+  pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
-
+  mandatoryKeywords: "Dietician Anupreksha Rastogi, Smart Binge",
   /* author */
   authorName: "divyam rastogi",
   authorTwitterAccount: "divyamrstogi",

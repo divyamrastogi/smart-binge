@@ -3,6 +3,7 @@ title: Eat healthy, eat right
 category: "Tips"
 cover: photo-1490474418585-ba9bad8fd0ea.jpg
 author: anupreksha rastogi
+description: Lose weight, Gain weight, Build muscle, fitness
 ---
 
 Whether your goal is to:

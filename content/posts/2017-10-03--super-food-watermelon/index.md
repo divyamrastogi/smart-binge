@@ -3,6 +3,7 @@ title: Watermelon - a super food
 category: "Tips"
 cover: FB_IMG_1553834541088.jpg
 author: anupreksha rastogi
+description: Watermelon, Benefits, Super Food, Water
 ---
 
 ## Watermelon - Super Food
