@@ -25,6 +25,11 @@ export default class HTML extends React.Component {
               `
             }}
           />
+          <style
+            dangerouslySetInnerHTML={{
+              __html: `.fb-comments, .fb-comments iframe[style] {width: 100% !important;}`
+            }}
+          />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="#D0E0D8" />
           <meta name="apple-mobile-web-app-title" content="Lazywill" />
