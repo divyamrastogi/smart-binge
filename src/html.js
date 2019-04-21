@@ -25,6 +25,12 @@ export default class HTML extends React.Component {
               `
             }}
           />
+          <script
+            id="mcjs"
+            dangerouslySetInnerHTML={{
+              __html: `!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/75f3d93e9eabe785f1fbadd1f/e5cc8a3a673ac5247a56fd872.js");`
+            }}
+          />
           <style
             dangerouslySetInnerHTML={{
               __html: `.fb-comments, .fb-comments iframe[style] {width: 100% !important;}`
