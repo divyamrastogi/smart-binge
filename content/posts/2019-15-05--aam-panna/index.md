@@ -17,6 +17,6 @@ https://www.whiskaffair.com/aam-panna/
 ### Health benefits
 
 - Aids in battling the scorching heat- Hydrates well
-- Good for digestion, treats gastrointestinal problems
+- Good for digestion and is known to treat gastrointestinal problems
 - Fights depression
 - Full of antioxidants, this improves skin textures
