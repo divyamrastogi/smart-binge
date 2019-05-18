@@ -1,6 +1,6 @@
 ---
 title: Amazing Aam Panna
-category: "tips"
+category: "Tips"
 cover: 60361838_2751907868158017_954973411191291904_o.jpg
 author: anupreksha rastogi
 description: Refreshing, tangy desi summer drink made of raw mango pulp with cumin and mint leaves.

@@ -1,6 +1,6 @@
 ---
 title: Moong Dal Snack
-category: "recipes"
+category: "Recipes"
 cover: 56300177_2681094198572718_4731628340287373312_n.jpg
 author: anupreksha rastogi
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dry Fruits
-category: "tips"
+category: "Tips"
 cover: 60227313_2748407318508072_2099184954050084864_o.jpg
 author: anupreksha rastogi
 description: Dry fruits benefits/advantages
