@@ -33,7 +33,13 @@ export default class HTML extends React.Component {
           />
           <style
             dangerouslySetInnerHTML={{
-              __html: `.fb-comments, .fb-comments iframe[style] {width: 100% !important;}`
+              __html: `
+              .fb-comments, .fb-comments iframe[style] {
+                width: 100% !important;
+              }
+              ol {
+                margin-left: 1.5em;
+              }`
             }}
           />
           <meta name="apple-mobile-web-app-capable" content="yes" />
