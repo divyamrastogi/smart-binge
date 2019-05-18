@@ -23,8 +23,8 @@ description: Dry fruits benefits/advantages
 
 #### HOW MUCH IS TOO MUCH?
 
-A handful is sufficing in mix form
+A handful of mixed dry fruits should suffice.
 
 #### HOW SHOULD IT BE CONSUMED?
 
-Overnight soaked and peeled. Add in salads, smoothies or shakes
+Overnight soaked and peeled. Add in salads, smoothies or shakes.
