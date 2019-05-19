@@ -7,7 +7,8 @@ module.exports = {
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
-  mandatoryKeywords: "Dietician Anupreksha Rastogi, Smart Binge",
+  mandatoryKeywords:
+    "Dietician Anupreksha Rastogi, Smart Binge, Vegan Diets, Weight Loss, Sports Nutrition, Meal Planning, Weight Gain, Diabetes Control Diets, Online Consultation, PCOS Control Diets, Vegetarian Diets, Allergy Consultation",
   /* author */
   authorName: "divyam rastogi",
   authorTwitterAccount: "divyamrstogi",
