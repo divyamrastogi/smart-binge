@@ -1,12 +1,12 @@
 ---
-title: Kaanji (Fermented Mustard Water)
+title: kanji (Fermented Mustard Water)
 category: "Recipes"
 cover: photo-1465070845512-2b2dbdc6df66.jpeg
 author: anupreksha rastogi
-description: Benefits of Kaanji (Fermented Mustard water)
+description: Recipe of gajar kanji ka pani, advantages, benefits of kanji (Fermented Mustard water and carrots)
 ---
 
-## Kaanji - Fermented Mustard Water
+## Kanji ka pani - Fermented Mustard Water
 
 ### Ingredients
 
@@ -16,7 +16,7 @@ description: Benefits of Kaanji (Fermented Mustard water)
 - 1 litre Water
 - Black salt to taste
 
-### Recipe
+### Recipe for Kanji ka pani
 
 - Add all above ingredients in a jar
 - Pour 1 litre water and mix
@@ -27,12 +27,12 @@ description: Benefits of Kaanji (Fermented Mustard water)
 
 ### Points to remember:
 
-- Can be stored up to 15 days in Refrigerator.
-- Add extra mustard if you need extra sourness.
+- Kanji ka pani Can be stored up to 15 days in Refrigerator.
+- Add extra mustard to Kanji ka pani if you need extra sourness.
 
-### Benefits
+### Benefits & Advantages of having kanji or Kanji ka pani
 
-- Good for diabetic and for weight management
+- kanji or Kanji ka pani is good for diabetic and for weight management
 - Aids digestion by stimulating growth of natural probiotics
-- Promotes healthy bowel movement
+- Promotes healthy bowel movement - it is good for your gut
   ![unsplash.com](./photo-1465070845512-2b2dbdc6df66.jpeg)
