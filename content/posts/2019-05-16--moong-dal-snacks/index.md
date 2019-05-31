@@ -3,6 +3,7 @@ title: Moong Dal Snack
 category: "Recipes"
 cover: 56300177_2681094198572718_4731628340287373312_n.jpg
 author: anupreksha rastogi
+description: A recipe for tasty, healthy and fulfilling moong dal snack to binge upon.
 ---
 
 ![recipe of moong dal snacks](./56300177_2681094198572718_4731628340287373312_n.jpg)
