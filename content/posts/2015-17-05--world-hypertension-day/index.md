@@ -3,7 +3,7 @@ title: World Hypertension Day
 category: "Tips"
 cover: FB_IMG_1553833428634.jpg
 author: Anupreksha Rastogi
-description: What to eat if you have hypertension
+description: What to eat if you have hypertension - consult a dietician.
 ---
 
 ### Dietary Tips
