@@ -3,9 +3,10 @@ title: About - Meet our expert
 menuTitle: About
 ---
 
-![Anupreksha's Profile Photo](./profile.jpg)
+| <div style="visibility: hidden">Need dummy content here to make the image appear bigger</div> | Experience                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Anupreksha's Profile Photo](./profile.jpg)                                                  | <div style="padding-left: 10px;">My name is **_Dt. Anupreksha Rastogi_**. I am professionally a dietician with over 7 years of experience in Therapeutic Diets and weight management.</div> |
 
-My name is **_Dt. Anupreksha Rastogi_**. I am professionally a dietician with over 7 years of experience in Therapeutic Diets and weight management.
 Due to my regular interest in food, I prefered to pursue my studies in the subject. So, I did my Masters in Food Science from Banaras Hindu University in 2012. From there my journey began by working with the organizations like Fortis Healthcare, VLCC, Corporate offices, many chains and now in the Trinity Hospital, Zirakpur Mohali.
 Being a qualified dietician and a life member of Indian Dietetics Association, I believe in implementing safe, healthy eating habits not just thr numbers in weighing scale.
 All this is taught throughout the journey of our programs.
