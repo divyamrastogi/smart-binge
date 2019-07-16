@@ -6,6 +6,8 @@ author: anupreksha rastogi
 description: Health benefits of corn and when to not eat it
 ---
 
+![Corn](20190716_120244_0000.png)
+
 When it comes to the monsoon season, the cool breeze with drizzling makes us crave for those warm, grilled Corn cob - 🌽🌽. Some call it भुट्टा, some call it छल्ली and many more.
 So all of you guys write to us what do you call it in your region.
 A dash of lemon with a pinch of black salt is always lip-smacking and irresistible for all of us.
