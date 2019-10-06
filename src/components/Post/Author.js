@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import config from "../../../content/meta/config";
-import avatar from "../../images/jpg/avatar.png";
+import avatar from "../../images/smart-binge.jpeg";
 
 const Author = props => {
   const { note, theme } = props;
@@ -36,6 +36,8 @@ const Author = props => {
           margin: 5px 20px 0 0;
           overflow: hidden;
           width: 50px;
+          display: flex;
+          align-items: center;
         }
         .avatar img {
           width: 100%;

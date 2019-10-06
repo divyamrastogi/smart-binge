@@ -7,7 +7,7 @@ import { ScreenWidthContext, FontLoadedContext } from "../../layouts";
 import config from "../../../content/meta/config";
 import Menu from "../Menu";
 
-import avatar from "../../images/jpg/avatar.png";
+import avatar from "../../images/smart-binge.jpeg";
 
 class Header extends React.Component {
   state = {
@@ -114,9 +114,10 @@ class Header extends React.Component {
           }
 
           .logo {
-            border-radius: 65% 75%;
+            border-radius: 1ems;
             border: 1px solid #eee;
-            display: inline-block;
+            align-items: center;
+            display: flex;
             height: 44px;
             margin: ${theme.space.inline.default};
             overflow: hidden;
