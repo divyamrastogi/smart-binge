@@ -49,3 +49,6 @@ Reach out to **Dt. Anupreksha** on her email and/or her mobile number for a cons
 **Email**: <mailto:smartbinge@gmail.com>
 
 **Mobile**: <a href="tel:+91-8196857331">+91-8196857331</a>
+**Mobile**: <a href="tel:+91-8557088040">+91-8557088040</a>
+
+**Smart Binge Clinic Address**: Spectra Healthcare, SCO-74, Sector-20c, Tribune Road, Chandigarh

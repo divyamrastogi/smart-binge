@@ -1,5 +1,5 @@
 ---
-title: Does Lemon with Honey in water help in reducing weight
+title: Navratri Special Scheme
 category: "Myths"
 cover: navratri-special.jpeg
 author: Anupreksha Rastogi
