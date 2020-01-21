@@ -14,17 +14,11 @@ export default class HTML extends React.Component {
           />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
           {this.props.headComponents}
-          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" />
           <script
-            dangerouslySetInnerHTML={{
-              __html: `
-                (adsbygoogle = window.adsbygoogle || []).push({
-                  google_ad_client: "ca-pub-4546010269809354",
-                  enable_page_level_ads: true
-                });
-              `
-            }}
-          />
+            data-ad-client="ca-pub-4546010269809354"
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+          ></script>
           <script
             id="mcjs"
             dangerouslySetInnerHTML={{
