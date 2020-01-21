@@ -22,15 +22,15 @@ This privacy policy is effective from 16th April 2019.
 
 You may be asked to enter your name and email address when you subscribe to our newsletter, comment on our website or fill out a form.
 
-We use Google Analytics on our website to understand our visitors and analyze trends. Google analytics collects various information that includes your IP address, browser type, Internet Service Provider (ISP), date/time stamp, landing/exit pages and number of clicks.
+We use Google Analytics on our website to understand our visitors and analyze trends. Google Analytics collects various information that includes your IP address, browser type, Internet Service Provider (ISP), date/time stamp, landing/exit pages and number of clicks.
 
-In addition, Google, as a third party vendor, uses cookies to serve ads on our website. Google’s use of the DART cookie enables it to serve ads to you based on your visits to our site and other sites on the Internet. You may opt out of the use of DART cookie by visiting the Google ad and content network privacy policy.
+In addition, Google, as a third-party vendor, uses cookies to serve ads on our website. Google’s use of the DART cookie enables it to serve ads to you based on your visits to our site and other sites on the Internet. You may opt-out of the use of DART cookie by visiting the Google ad and content network privacy policy.
 
 ## What do we use your information for?
 
 Any information that we collect from you is used in one of the following ways -
 
-To improve our website (We use the information collected through Google analytics to improve our website and provide relevant content.)
+To improve our website (We use the information collected through Google Analytics to improve our website and provide relevant content.)
 
 To follow up with you after correspondence (The email you provide to us may be used to follow up with you after an inquiry.)
 
@@ -44,7 +44,7 @@ We use Secure Socket Layer (SSL) technology on our website. Any information that
 
 ## Do we use Cookies?
 
-We do not use cookies ourselves. However, Third party services used on our website like Google analytics, Google Adsense and Disqus commenting platform use cookies to identify you, save your preferences and serve relevant ads.
+We do not use cookies ourselves. However, Third-party services used on our website like Google Analytics, Google Adsense and Disqus commenting platform use cookies to identify you, save your preferences and serve relevant ads.
 
 ## Do we disclose any information to outside parties?
 
